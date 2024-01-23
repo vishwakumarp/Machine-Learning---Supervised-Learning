@@ -5,15 +5,11 @@ This repository contains implementations and examples of various supervised mach
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Dependencies](#dependencies)
 - [Algorithms](#algorithms)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
-
 Supervised machine learning algorithms are a class of algorithms that learn from labeled training data to make predictions or decisions without explicit programming. In supervised learning, the algorithm is trained on a dataset where each input is associated with a corresponding output label. The goal is to learn a mapping from inputs to outputs so that the model can make accurate predictions on new, unseen data. This repository aims to provide implementations of popular supervised machine learning algorithms.
 
 ## Dependencies
