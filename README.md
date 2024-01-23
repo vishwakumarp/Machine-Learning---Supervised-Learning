@@ -37,7 +37,6 @@ The following supervised machine learning algorithms are implemented in this rep
 To use the algorithms in this repository, follow these steps:
 
 1. Clone the repository:
-
-   ```bash
-  https://github.com/vishwakumarp/Machine-Learning---Supervised-Learning.git
+     ```bash
+   [git clone https://github.com/your-username/your-project.git](https://github.com/vishwakumarp/Machine-Learning---Supervised-Learning.git)
 
